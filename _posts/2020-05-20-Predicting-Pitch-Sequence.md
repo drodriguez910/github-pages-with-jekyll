@@ -10,3 +10,4 @@ To do this I will be scraping real-world Statcast data from MLB Baseball Savant 
 
 Coming Soon!
 
+![](_images/Yu_Pitch_Type.png)
