@@ -10,4 +10,4 @@ To do this I will be scraping real-world Statcast data from MLB Baseball Savant 
 
 Coming Soon!
 
-![](_images/Yu_Pitch_Type.png)
+![alt_text](https://github.com/drodriguez910/my-blog/tree/master/_images/Yu_Pitch_Type.png "Yu Darvish Pitch Distribution")
